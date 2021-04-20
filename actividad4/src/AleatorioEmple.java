@@ -8,6 +8,8 @@ public class AleatorioEmple {
 		crear();
 		leer();
 		System.out.println();
+		System.out.println();
+		System.out.println();
 		
 	}
 
